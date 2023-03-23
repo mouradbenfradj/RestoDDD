@@ -1,0 +1,224 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll.config
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\MySql.Data.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\mysql.data.entity.EF6.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\WebGrease.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Helpers.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Mvc.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Optimization.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Razor.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.csprojResolveAssemblyReference.cache
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll.config
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\MySql.Data.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\mysql.data.entity.EF6.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\WebGrease.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\AutoMapper.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Razor.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\MySql.Data.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\mysql.data.entity.EF6.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\WebGrease.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\PreojtDDD.MVC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\MySql.Data.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\mysql.data.entity.EF6.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\WebGrease.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Application.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\AutoMapper.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\ProjetDDD.Infra.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\PreojtDDD.MVC\obj\Debug\PreojtDDD.MVC.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\DDD.Domain.dll.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\obj\Debug\DDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\DDD.Domain\obj\Debug\DDD.Domain.pdb
