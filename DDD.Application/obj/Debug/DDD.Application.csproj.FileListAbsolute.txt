@@ -1,0 +1,9 @@
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\DDD.Application.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\DDD.Application.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\AutoMapper.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\DDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\DDD.Domain.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\bin\Debug\AutoMapper.xml
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\obj\Debug\DDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\obj\Debug\DDD.Application.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Application\obj\Debug\DDD.Application.pdb

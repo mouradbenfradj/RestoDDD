@@ -1,0 +1,4 @@
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.Domain\obj\Debug\DDD.Domain.pdb

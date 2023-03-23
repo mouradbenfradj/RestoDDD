@@ -1,0 +1,16 @@
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\DDD.infra.data.dll.config
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\DDD.infra.data.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\DDD.infra.data.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\DDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\EntityFramework.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\MySql.Data.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\DDD.Domain.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\EntityFramework.xml
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\obj\Debug\DDD.infra.data.csprojResolveAssemblyReference.cache
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\obj\Debug\DDD.infra.data.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\obj\Debug\DDD.infra.data.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\obj\Debug\DDD.infra.data.Migrations.init.resources
+C:\Users\maho\Documents\Visual Studio 2013\Projects\ProjetDDD\DDD.infra.data\obj\Debug\DDD.infra.data.csproj.GenerateResource.Cache
