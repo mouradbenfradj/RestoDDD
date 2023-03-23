@@ -1,0 +1,20 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb

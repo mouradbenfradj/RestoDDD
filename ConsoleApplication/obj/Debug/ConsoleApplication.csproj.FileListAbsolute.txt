@@ -1,0 +1,23 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

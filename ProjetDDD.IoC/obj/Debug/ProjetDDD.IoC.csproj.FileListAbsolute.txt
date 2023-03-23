@@ -1,0 +1,92 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.csprojResolveAssemblyReference.cache
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.xml
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll.config
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll.config
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.xml
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Projects\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll.config
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.IoC.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Application.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\ProjetDDD.Infra.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.pdb
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.dll
+C:\Users\Sniper\OneDrive\visual studio 2013\Nouveau dossier\prototypeDDD\ProjetDDD.IoC\obj\Debug\ProjetDDD.IoC.pdb
